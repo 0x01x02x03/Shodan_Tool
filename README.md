@@ -1,7 +1,7 @@
 Shodan Tool
 ===========
 
-A simple script to search on Shodan with the following options:<br>
+A simple program to search on Shodan with the following options:<br>
 <br>
 [+] Search Results for IP<br>
 [+] Search Results for quantity<br>
